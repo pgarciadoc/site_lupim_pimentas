@@ -13,14 +13,16 @@ Site desenvolvido para a marca de pimentas caseiras denominada Lupim Pimentas. O
 
 ![Image](https://github.com/pgarciadoc/site_lupim_pimentas/issues/1#issue-3537700660)
 ![Image](https://github.com/pgarciadoc/site_lupim_pimentas/issues/2#issue-3537703649)
-![Image](https://github.com/pgarciadoc/site_lupim_pimentas/issues/3#issue-3537713208))
+![Image](https://github.com/pgarciadoc/site_lupim_pimentas/issues/3#issue-3537713208)
 ![Image](https://github.com/pgarciadoc/site_lupim_pimentas/issues/4#issue-3537714830)
-
 ## Desenvolvido Por:
 
 [Pedro Garcia](https://www.linkedin.com/in/pedrogarcia-avi/)
+
 [TIKTOK onde ensino sobre programação](https://www.tiktok.com/@pedrogarcia_avi?is_from_webapp=1&sender_device=pc)
+
 [YOUTUBE onde ensino sobre programação](https://www.youtube.com/@pedrogarciaavi)
+
 [INSTAGRAM](https://www.instagram.com/pedrogarcia_avi/)
 
 
