@@ -1,0 +1,437 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#home {
+    background-color: #242424;
+    background-repeat: no-repeat;
+    background-size: cover;
+    justify-content: center;
+    min-height: 80%;
+    padding: 100px;
+}
+
+.header{
+    width: 100%;
+    align-items: center;
+    position: sticky;
+    top: 0;
+    background-color: #2F2F2F;
+    padding: 15px;
+    background-size: cover;
+
+}
+
+.nav {
+    
+    max-width: 1280px;
+    height: 70px;
+    margin-inline: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-inline: 20px;
+
+}
+
+.nav_list {
+    display: flex;
+    gap: 32px;
+    list-style: none;
+    font-size: 24px;
+    padding-block: 16px;
+}
+
+.nav_list a {
+    padding-block: 16px;
+    font-family: "Bebas Neue";
+    text-decoration: none;
+    color: white;
+}
+
+.infos_home_marca h1 {
+    text-decoration: none;
+    font-family: Bebas Neue;
+    color: white;
+    font-size: 3.1rem;
+    text-align: center;
+    margin: 10px;
+}
+
+.infos_home_marca button {
+    font-family: Bebas Neue;
+    color: white;
+    font-size: 2.2rem;
+    background-color: #681412;
+    border-radius: 20px;
+    text-decoration: none;
+    border-style: none;
+    padding: 10px;
+}
+
+.descricao_home {
+    display: flex;
+    justify-content: center;
+    text-decoration: none;
+    font-family: Liter;
+    color: white;
+    text-align: center;
+    max-width: 600px;
+    text-align: justify;
+    font-size: 25px;
+
+}
+
+#desafio {
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 100px;
+}
+
+.slogan_desafio {
+    display: flex;
+    align-items: center;
+}
+
+.market_place{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+    padding: 15px;
+    margin: 25px;
+}
+
+.pimenta_1 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content:flex-start;
+}
+
+.pimenta_1 h2 {
+    color: white;
+    font-family: Bebas Neue;
+    margin: 15px;
+    font-size: 24px;
+    align-items: center;
+}
+
+.pimenta_1 button {
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    font-family: Bebas Neue;
+    color: white;
+    font-size: 2.2rem;
+    background-color: #681412;
+    border-radius: 20px;
+    text-decoration: none;
+    border-style: none;
+    padding: 10px;
+}
+
+.pimenta_2 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content:flex-start;
+}
+
+.pimenta_2 h2 {
+    color: white;
+    font-family: Bebas Neue;
+    margin: 15px;
+    font-size: 24px;
+    align-items: center;
+}
+
+.pimenta_2 button {
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    font-family: Bebas Neue;
+    color: white;
+    font-size: 2.2rem;
+    background-color: #681412;
+    border-radius: 20px;
+    text-decoration: none;
+    border-style: none;
+    padding: 10px;
+}
+
+.pimenta_3 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content:flex-start;
+}
+
+.pimenta_3 h2 {
+    color: white;
+    font-family: Bebas Neue;
+    margin: 15px;
+    font-size: 24px;
+    align-items: center;
+}
+
+.pimenta_3 button {
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    font-family: Bebas Neue;
+    color: white;
+    font-size: 2.2rem;
+    background-color: #681412;
+    border-radius: 20px;
+    text-decoration: none;
+    border-style: none;
+    padding: 10px;
+}
+
+#informativo_pimenta_1{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    background-image: linear-gradient(180deg, #000000, #242424 );
+    padding: 100px;
+}
+
+.vidro_pimenta_1 {
+    display: flex;
+    flex-direction: row;
+    max-width: fit-content;
+}
+
+.textos_pimenta_1 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content:right;
+    font-family: Liter;
+    color: white;
+    justify-content: center;
+    text-align: center;
+    max-width: 600px;
+    text-align: justify;
+    font-size: 1.5rem;
+}
+
+.textos_pimenta_1 p {
+    margin: 15px;
+}
+
+.textos_pimenta_1 button {
+    align-items: center;
+    justify-content: center;
+    justify-items: center;
+    flex-direction: column;
+    font-family: Bebas Neue;
+    color: white;
+    font-size: 1.5rem;
+    background-color: #681412;
+    border-radius: 20px;
+    text-decoration: none;
+    border-style: none;
+    padding: 8px;
+    max-width: 150px;
+}
+
+#informativo_pimenta_2{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    background-image: linear-gradient(180deg, #242424, #681412 );
+    padding: 100px;
+}
+
+.vidro_pimenta_2 {
+    display: flex;
+    flex-direction: row;
+    max-width: fit-content;
+}
+
+.textos_pimenta_2 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content:left;
+    font-family: Liter;
+    color: white;
+    justify-content: center;
+    max-width: 600px;
+    text-align: justify;
+    font-size: 1.5rem;
+}
+
+.textos_pimenta_2 p {
+    margin: 15px;
+}
+
+.textos_pimenta_2 button {
+    align-items: center;
+    justify-content: center;
+    justify-items: center;
+    flex-direction: column;
+    font-family: Bebas Neue;
+    color: white;
+    font-size: 1.5rem;
+    background-color: #681412;
+    border-radius: 20px;
+    text-decoration: none;
+    border-style: none;
+    padding: 8px;
+    max-width: 150px;
+}
+
+#informativo_pimenta_3 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    background-image: linear-gradient(180deg, #681412, #242424 );
+    padding: 100px;
+}
+
+.vidro_pimenta_3 {
+    display: flex;
+    flex-direction: row;
+    max-width: fit-content;
+}
+
+.textos_pimenta_3 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content:left;
+    font-family: Liter;
+    color: white;
+    justify-content: center;
+    max-width: 600px;
+    text-align: justify;
+    font-size: 1.5rem;
+}
+
+.textos_pimenta_3 p {
+    margin: 15px;
+}
+
+.textos_pimenta_3 button {
+    align-items: center;
+    justify-content: center;
+    justify-items: center;
+    flex-direction: column;
+    font-family: Bebas Neue;
+    color: white;
+    font-size: 1.5rem;
+    background-color: #681412;
+    border-radius: 20px;
+    text-decoration: none;
+    border-style: none;
+    padding: 8px;
+    max-width: 150px;
+}
+
+#quem_somos {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    justify-items: center;
+    background-color: #242424;
+    padding: 100px;
+}
+
+.titulo_quemsomos {
+    display: flex;
+    align-items: center;
+    font-family: Bebas Neue;
+    color: white;
+    font-size: 1.5rem;
+    margin: 15px;
+}
+
+.descricao_quemsomos {
+    color: white;
+    justify-content:space-between;
+    font-family: Liter;
+    max-width: 600px;
+    text-align: justify;
+    font-size: 1.5rem;
+    margin: 20px;
+}
+
+#contato {
+    background-color: #000000;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    padding: 100px
+}
+
+.titulo_contato button {
+    font-family: Bebas Neue;
+    color: white;
+    font-size: 2.2rem;
+    background-color: #681412;
+    border-radius: 20px;
+    text-decoration: none;
+    border-style: none;
+    padding: 10px;
+}
+
+.cta {
+    display: flex;
+    flex-direction: column;
+    align-items: center; 
+    justify-content:left; 
+    font-family: Liter;
+    color: white;
+    justify-content: center;
+    max-width: 600px;
+    text-align:center;
+    font-size: 1.5rem;
+    margin: 20px;
+}
+
+.link_direto_whats {
+    display: flex;
+    flex-direction: row;
+    align-items: center;  
+}
+
+.link_direto_whats img {
+    display: flex;
+    flex-direction: row-reverse;
+    width: 48px;
+    height: 48px;
+}
+
+.link_direto_whats a {
+    display: flex;
+    align-items: center;
+    font-family: Liter;
+    color: white;
+    justify-content: center;
+    max-width: 600px;
+    text-align:center;
+    font-size: 1.5rem;
+    margin: 10px;
+}
+
+#rodape {
+    background-color: #681412;
+    display: flex;
+    align-items: center;
+    font-family: Liter;
+    color: white;
+    justify-content: center;
+}
+
+.infos_rodape {
+    margin: 20px;
+}
+
+
